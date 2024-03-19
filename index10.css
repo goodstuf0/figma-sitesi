@@ -1,0 +1,23 @@
+.list{
+list-style: none;
+color: blue;
+font-weight: 700;
+font-size: 50px;
+text-align: center;
+}
+.list li{
+display: inline-block;
+}
+
+
+
+.playfair-display {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+  /* Main CSS */
+.box{
+    list-style: none;
+}  
